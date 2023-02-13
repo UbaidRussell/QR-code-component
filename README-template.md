@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![image](images/qr-code%20image.png)
+![image](images/qr-code image.png)
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
