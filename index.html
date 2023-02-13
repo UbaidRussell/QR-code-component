@@ -8,9 +8,13 @@
   
   <title>Frontend Mentor | QR code component</title>
 
+  <!--Stylesheet-->
+  <link href="https://fonts.googleapis.com/css2?family=Outfit&display=swap" rel="stylesheet">
+
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   <style>
 body{
+  font-family: 'Outfit', sans-serif;
   margin: 0;
   padding: 0;
   width: 100%;
@@ -24,7 +28,7 @@ body{
   transition: 0.3s;
   width: 20%;
   margin: auto;
-  margin-top: 30px;
+  margin-top: 200px;
   border-radius: 10px;
 }
 .card:hover {
@@ -37,7 +41,8 @@ body{
 img .qr-code{
   object-fit: cover;
 }
-h2,h3{
+h1,h3{
+  margin-top: 20px;
   position: relative;
   text-align: center;
 }
@@ -50,8 +55,8 @@ h2,h3{
   <div class="card">
       <img class="qr-code" src="images/image-qr-code.png" alt="" style="width:100%">
       <div class="container">
-      <h2>Improve your front-end skills by building projects</h2>
-      <h3>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</h3>
+      <h1>Improve your front-end skills by building projects</h2>
+      <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
     </div>
   </div>
 
