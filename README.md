@@ -8,7 +8,6 @@
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -21,8 +20,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://ubaidrussell.com/QR-code-component/)
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/qr-code-component-solution-CMA2rPJoUR)
+- Live Site URL: [Click here](https://ubaidrussell.com/QR-code-component/)
 
 ## My process
 
@@ -55,14 +54,6 @@ Code snippets:
   border-radius: 10px;
 }
 ```
-
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-
 ## Author
 
 - Website - [Ubaid Russell](UbaidRussell.com)
